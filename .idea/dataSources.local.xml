@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - dbwork@localhost" uuid="48525360-9452-41c2-8faf-c7db98b762a0">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>dbwork.*</schema-pattern>
+      <default-schemas>dbwork.*</default-schemas>
+    </data-source>
+  </component>
+</project>

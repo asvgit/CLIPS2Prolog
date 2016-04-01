@@ -1,0 +1,4 @@
+insert into regular_expressions(name,value) values('Grag','test');
+#select * from regular_expressions where name = 'Grag';
+#update regular_expressions set name = 'Alex', value = 'Wowow' where id=1;
+#delete from regular_expressions;
